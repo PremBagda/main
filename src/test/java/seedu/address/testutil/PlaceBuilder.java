@@ -6,8 +6,8 @@ import java.util.Set;
 import seedu.address.model.place.Address;
 import seedu.address.model.place.Email;
 import seedu.address.model.place.Name;
-import seedu.address.model.place.Place;
 import seedu.address.model.place.Phone;
+import seedu.address.model.place.Place;
 import seedu.address.model.tag.Tag;
 import seedu.address.model.util.SampleDataUtil;
 
